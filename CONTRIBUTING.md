@@ -1,6 +1,6 @@
 # Octicons Contribution Guidelines (Currently GitHub Staff only)
 
-Thank you for your interest in contributing to Octicons! We are currently only accepting submissions from GitHub staff and only include icons that are used in the GitHub UI. If you'd like to submit feedback, a bug, or an idea for improvement, please open a new issue in this repo using the appropriate [issue template](https://github.com/primer/octicons/issues/new/choose).
+Thank you for your interest in contributing to Octicons! We are currently only accepting submissions from GitHub staff and only include icons that are used in the GitHub UI. If you'd like to submit feedback, a bug, or an idea for improvement, please open a new issue in this repo using the appropriate [issue template](https://github.com/Unity-Billal-mesloub/octicons/issues/new/choose).
 
 ## Icon request and review process
 
@@ -36,13 +36,13 @@ Follow these steps to add or update an icon.
 
 ```shell
 # Clone the repository
-git clone https://github.com/primer/octicons
+git clone https://github.com/Unity-Billal-mesloub/octicons
 
 # Navigate to the newly cloned directory
 cd octicons
 ```
 
-If you don't have [`write`](https://help.github.com/en/github/getting-started-with-github/access-permissions-on-github) access to the [primer/octicons](https://github.com/primer/octicons) repository, instead of cloning the repository directly, you'll need to [fork](http://help.github.com/fork-a-repo/) the project, clone your fork, and configure the remotes:
+If you don't have [`write`](https://help.github.com/en/github/getting-started-with-github/access-permissions-on-github) access to the Unity-Billal-mesloub/octicons](https://github.com/Unity-Billal-mesloub/octicons) repository, instead of cloning the repository directly, you'll need to [Unity-Billal-mesloub](http://help.github.com/Unity-Billal-mesloub/) the project, clone your fork, and configure the remotes:
 
 ```shell
 # Clone your fork of the repository
@@ -52,7 +52,7 @@ git clone https://github.com/<your-username>/octicons
 cd octicons
 
 # Assign the original repo to a remote called "upstream"
-git remote add upstream https://github.com/primer/octicons
+git remote add upstream https://github.com/Unity-Billal-mesloub/octicons
 ```
 
 #### 2. Create a new feature branch
@@ -115,9 +115,9 @@ Here are a few questions we'll ask when reviewing new octicons. Keep these in mi
 
 Once submitted changes have been agreed upon, these instructions will guide maintainers through releasing changes.
 
-Releases are managed by 🦋 [Changesets](https://github.com/atlassian/changesets#documentation) which is a great tool for managing major/minor/patch bumps and changelogs. More info can be found in our [how we work docs](https://github.com/github/design-infrastructure/blob/main/how-we-work/engineering/changesets.md#using-changesets-to-prepare-and-publish-a-release).
+Releases are managed by 🦋 [Changesets](https://github.com/Unity-Billal-mesloub/changesets#documentation) which is a great tool for managing major/minor/patch bumps and changelogs. More info can be found in our [how we work docs](https://github.com/github/design-infrastructure/blob/main/how-we-work/engineering/changesets.md#using-changesets-to-prepare-and-publish-a-release).
 
-We have the [changeset-bot comment on new pull requests](https://github.com/changesets/bot#readme) asking contributors or maintainers to add a changeset file, which will become the markdown supported changelog entry for the change.
+We have the [changeset-bot comment on new pull requests](thttps://github.com/changeses/bot#readme) asking contributors or maintainers to add a changeset file, which will become the markdown supported changelog entry for the change.
 
 When creating the changeset always commit into the working branch (pull request branch), not `main`.
 
