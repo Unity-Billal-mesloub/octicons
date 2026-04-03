@@ -8,10 +8,10 @@
 
 <p align="center">
   <a aria-label="build status" href="https://github.com/primer/octicons/actions/workflows/ci.yml">
-    <img alt="" src="https://github.com/primer/octicons/actions/workflows/ci.yml/badge.svg?branch=main&event=push">
+    <img alt="" src="https://github.com/Unity-Billal-mesloub/octicons/actions/workflows/ci.yml/badge.svg?branch=main&event=push">
   </a>
   <a aria-label="publish status" href="https://github.com/primer/octicons/actions/workflows/publish.yml">
-    <img alt="" src="https://github.com/primer/octicons/actions/workflows/publish.yml/badge.svg">
+    <img alt="" src="https://github.com/Unity-Billal-mesloub/octicons/actions/workflows/publish.yml/badge.svg">
   </a>
 </p>
 
@@ -42,21 +42,14 @@ The octicons node.js library is the main JavaScript library. With [a JavaScript 
 
 ### Feedback, ideas, and bug reports
 
-If you found a bug, have feedback about our Octicon Library, or an idea on how to improve it, please open a new issue in this repo using the appropriate [issue template](https://github.com/primer/octicons/issues/new/choose).
+If you found a bug, have feedback about our Octicon Library, or an idea on how to improve it, please open a new issue in this repo using the appropriate [issue template](https://github.com/Unity-Billal-mesloub/octicons/issues/new/choose).
 
 ### Request an Icon Review (GitHub staff only)
 
-To request an icon review for inclusion in the Octicons Library, open an issue using the [icon review request](https://github.com/github/primer/issues/new?assignees=&labels=octicon%2C+request%2C+needs+triage&template=03-icon-request.md&title=%5BIcon+request%5D+) template in github/primer.
+To request an icon review for inclusion in the Octicons Library, open an issue using the [icon review request](https://github.com/github/Unity-Billal-mesloub/issues/new?assignees=&labels=octicon%2C+request%2C+needs+triage&template=03-icon-request.md&title=%5BIcon+request%5D+) template in github/primer.
 
 ### Adding or updating an icon
 
 Read through our [contributing guide](./CONTRIBUTING.md#adding-or-updating-icons) if you want to add or update icons.
 
-## License
 
-(c) GitHub, Inc.
-
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
-
-_Code License:_ [MIT](./LICENSE)
-Applies to all other files
