@@ -117,7 +117,7 @@ Once submitted changes have been agreed upon, these instructions will guide main
 
 Releases are managed by 🦋 [Changesets](https://github.com/Unity-Billal-mesloub/changesets#documentation) which is a great tool for managing major/minor/patch bumps and changelogs. More info can be found in our [how we work docs](https://github.com/github/design-infrastructure/blob/main/how-we-work/engineering/changesets.md#using-changesets-to-prepare-and-publish-a-release).
 
-We have the [changeset-bot comment on new pull requests](thttps://github.com/changeses/bot#readme) asking contributors or maintainers to add a changeset file, which will become the markdown supported changelog entry for the change.
+We have the [changeset-bot comment on new pull requests](https://github.com/Unity-for-Unity-Manufacturing/bot#readme) asking contributors or maintainers to add a changeset file, which will become the markdown supported changelog entry for the change.
 
 When creating the changeset always commit into the working branch (pull request branch), not `main`.
 
